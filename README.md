@@ -1,4 +1,9 @@
 # git-practice
-Learning Git basics
-My name is Jeevana Srinivasan
-Complete section 10
+My github repo for practising Git in my ESD class, Mtech CSE
+
+##What I've learnt
+- Git and GitHub
+- Add->Commit->Push
+- Rename and remove
+
+Author: **Jeevana Srinivasan**
